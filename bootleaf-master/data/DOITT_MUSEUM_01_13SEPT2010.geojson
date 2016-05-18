@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Hotel Caribe", "TEL": " 01 999 924 9022", "URL": "hotelcaribe.com.mx", "ADDRESS1": "Calle 59 No. 500 por Calle 60,Centro,97000 Mérida, Yuc.", "ADDRES2": "hola", "CITY": "merida", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -89.6486869,20.9856546 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "El conquistador", "TEL": "999 940 6400", "URL": "null", "ADDRESS1": "Av. Paseo de Montejo 458 x 35 y 37,Centro,97000 Mérida, Yuc.,México", "ADDRES2": null, "CITY": "merida", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -89.6178280,20.9826720 ] } }
+,
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Mision Express Merida Altabrisa", "TEL": "01 999 942 3600", "URL": "bookings.ihotelier.com", "ADRESS1": "Calle 20 No. 255,Fracc. Altabrisa,97130 Mérida, Yuc.", "ADDRESS2": null, "CITY": "merida", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -89.5857634,21.0231431] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Hospedaje Karen's", "TEL": "s/n", "URL": "null", "ADRESS1": "Calle 45A x Calle 4 y Calle 8,Francisco Villa,97370 Kanasín, Yuc.,México", "ADDRESS2": null, "CITY": "merida", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [-89.5597501,20.9637256 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "hotel del gobernador", "TEL": "999 930 4141", "URL": "gobernadormerida.com.mx", "ADRESS1": "Calle 59 #535 x 66,Centro,97000 Mérida, Yuc.,México", "ADDRESS2": null, "CITY": "merida", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -89.6267800,20.9493214 ] } }
+
+]
+}

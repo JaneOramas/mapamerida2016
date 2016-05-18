@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+
+{ "type": "Feature", "id": 2, "properties": { "NAME": "la chaya maya casona", "TEL": " 999 928 4780", "URL": "lachayamaya.com", "ADDRESS1": "Calle 55 No.510 x 60 y 62,Centro,97000 Mérida, Yuc.,México", "ADDRES2": null, "CITY": "merida", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ -89.6231950,20.9609890 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "la exquina", "TEL": "999 920 1425", "URL": "null", "ADDRESS1": "Calle 5 de Mayo 107,Centro,86300 Comalcalco, Tab.,México", "ADDRES2": null, "CITY": "merida", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [-89.6183771,20.9827686] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "starbucks", "TEL": "999 920 0518", "URL": "starbucks.com.mx", "ADDRESS1": " Paseo de Montejo,Centro,97000 Mérida, Yuc.,México", "ADDRES2": null, "CITY": "merida", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [-89.6182134,20.9850261 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "comzo", "TEL": "S/N", "URL": "null", "ADDRESS1": " 6 8,Calle 57 418,Lázaro Cárdenas,97219 Mérida, Yuc., México", "ADDRES2": null, "CITY": "merida", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -89.5925176,20.9681846 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "Chokosis", "TEL": "S/N", "URL": "null", "ADDRESS1": "local 3, entre Calle 25 y Calle 25-B,Calle 10 73,Lázaro Cárdenas,97219 Mérida, Yuc., México", "ADDRES2": null, "CITY": "merida", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -89.5942584,20.9593430 ] } }
+
+]
+}
